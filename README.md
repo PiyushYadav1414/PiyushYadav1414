@@ -69,6 +69,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav1414&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 44%;"/>
 </p>
 
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
