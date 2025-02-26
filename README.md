@@ -70,11 +70,7 @@
 </p>
 
 ---
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/piyushyadav1414/piyushyadav1414/blob/output/github-contribution-grid-snake.gif)
 
 
 
