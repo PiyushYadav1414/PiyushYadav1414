@@ -69,11 +69,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav1414&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 44%;"/>
 </p>
 
----
+
 
 ![snake gif](https://github.com/PiyushYadav1414/PiyushYadav1414/blob/output/github-snake-dark.svg)
 
----
+
 
 
 <div align="center">
